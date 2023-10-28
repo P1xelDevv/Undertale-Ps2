@@ -1,6 +1,7 @@
 # Undertale-Ps2
+![download](https://github.com/P1xelDevv/Undertale-Ps2/assets/148770450/37d9749f-768b-4945-89ce-e1a0d0b099fc)
 <div align="center">
-<img src="file:///C:/Users/FELIPE/Desktop/Undertale%20ps2/download.png" />
+<img src="https://github.com/P1xelDevv/Undertale-Ps2/assets/148770450/37d9749f-768b-4945-89ce-e1a0d0b099fc" />
 </div>
 <h1>Sobre:</h1>
 Esse projeto busca recriar o undertale do zero para ps2 usando athenaenv
