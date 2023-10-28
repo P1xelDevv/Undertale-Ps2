@@ -10,3 +10,5 @@ de undertale o projeto e totalmente de codico aberto para qualquer
 pessoa que seja experiente em progamação 
 <h1>Colaboradores:</h1>
 Jão,P1xel e Dev Sleenx 
+<h1>Rede Sociais do Projeto:</h1>
+Discord:https://discord.gg/FXMR4q9xfu
