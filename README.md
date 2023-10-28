@@ -2,6 +2,6 @@
 <div align="center">
 <img src="https://github.com/P1xelDevv/Undertale-Ps2/assets/148770450/131436fb-e717-4eb5-bc22-b4d7b891cb98" />
 </div>
-# Sobre:
+<h1>Sobre:</h1>
 Esse projeto busca recriar o undertale do zero para ps2 usando athenaenv
-# Descrição
+<h1>Descrição:</h1>
