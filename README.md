@@ -1,6 +1,9 @@
 # Undertale-Ps2
 Pt-Br:Undertale vai ser o proximo jogo a ter uma versão criada do zero para ps2 por mim desenvolvedor principal p1xel 
 e antes que eu me esqueça obrigado DanielSant0s pela athenaenv sem essa maravilhosa engine eu não estaria criando esse projeto tão ambicioso!
+div align="center"
+img src="https://github.com/P1xelDevv/Undertale-Ps2/assets/148770450/131436fb-e717-4eb5-bc22-b4d7b891cb98" /
+/div
 
 (o projeto e totalmente de codico aberto)
 
