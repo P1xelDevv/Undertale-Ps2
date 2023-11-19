@@ -3,11 +3,11 @@ const player = {
 	x: 0,
 	y: 0,
 	sprites: {
-		movingUp: new Image("img/player_up.png"),
-		movingDown: new Image("img/player_down.png"),
-		movingLeft: new Image("img/player_left.png"),
-		movingRight: new Image("img/player_right.png"),
-		idle: new Image("img/player_idle.png")
+		movingUp: new Image("Data/Sprites/player_up.png"),
+		movingDown: new Image("Data/Sprites/player_down.png"),
+		movingLeft: new Image("Data/Sprites/player_left.png"),
+		movingRight: new Image("Data/Sprites/player_right.png"),
+		idle: new Image("Data/Sprites/player_idle.png")
 	}
 }
 
