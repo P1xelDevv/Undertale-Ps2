@@ -1,4 +1,4 @@
-# Undertale-Ps2
+# Undertale-PS2
 <div align="center">
 <img src="https://github.com/P1xelDevv/Undertale-Ps2/assets/148770450/37d9749f-768b-4945-89ce-e1a0d0b099fc" />
 </div>
