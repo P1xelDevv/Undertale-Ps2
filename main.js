@@ -19,19 +19,19 @@ while (true) {
 	switch (true) {
 		case Pads.check(pad, Pads.UP):
 			player.state = "movingUp"
-			player.y -= 10;
+			player.y -= 5;
 			break;
 		case Pads.check(pad, Pads.DOWN):
 			player.state = "movingDown"
-			player.y += 10;
+			player.y += 5;
 			break;
 		case Pads.check(pad, Pads.LEFT):
 			player.state = "movingLeft"
-			player.x -= 10;
+			player.x -= 5;
 			break;
 		case Pads.check(pad, Pads.RIGHT):
 			player.state = "movingRight"
-			player.x += 10;
+			player.x += 5;
 			break;
 		default:
 			player.state = "idle";
